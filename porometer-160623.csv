@@ -1,4 +1,4 @@
-canopyAmbientTemp,shadedCanopyIRtemp,porometerConductance,porometerSensorTemp,block,varietal,RDI,soilMoisture40cm,soilMoisture80cm,date,wetBulb,dryBulb
+canopyAmbientTemp,shadedCanopyIRtemp,conductance,porometerSensorTemp,block,varietal,RDI,soilMoisture40cm,soilMoisture80cm,date,wetBulb,dryBulb
 27.00,23,253.8,32.1,pinot#1,pinot,no,0.151,0.096,6/23/2016,20.5,31
 27.00,24,259.3,31.5,pinot#1,pinot,no,0.151,0.096,6/23/2016,20.5,31
 27.00,23,219.5,31.0,pinot#1,pinot,no,0.151,0.096,6/23/2016,20.5,31
